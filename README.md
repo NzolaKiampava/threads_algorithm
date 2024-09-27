@@ -3,4 +3,4 @@ Threads, Mutexes and Concurrent Programming in C
 
 #run
    ```bash
-   gcc <file.c> -pthread && ./a.out
+   gcc -pthread <file.c> && ./a.out
